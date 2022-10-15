@@ -1,17 +1,17 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.fnd-t2
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.fnd-t5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Planeación
+        span 5
+      h1 Titulo de primer nivel
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),
