@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Reclutamiento de personal idóneo, según normatividad y políticas organizacionales'
