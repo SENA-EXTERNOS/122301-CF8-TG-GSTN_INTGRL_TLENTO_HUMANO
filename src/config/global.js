@@ -155,132 +155,131 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Chiavenato, I (2009),<em> Gestión del talento humano.</em> McGraw Hill.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://jgestiondeltalentohumano.files.wordpress.com/2013/11/gestion-del-talento-humano-idalberto-chiavenato-3th.pdf',
     },
+
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Saber programas. (31 de julio de 2017). <em>¿Cómo crear un diagrama de Gantt en excel</em> [ Video]. Youtube.',
+      link: 'https://youtu.be/chR6kx4btDQ',
+    },
+
+    {
+      referencia:
+        'Ley estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. Reglamentada por el Decreto Nacional 1377 de 2013, Reglamentada Parcialmente por el Decreto 1081 de 2015. Ver sentencia C-748 de 2011. Ver Decreto 255 de 2022.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=49981',
     },
+
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Meardon, E. (s.f). <em>Todo sobre los diagramas de Gantt. </em>Atlassian.',
+      link: 'https://www.atlassian.com/es/agile/project-management/gantt-chart',
     },
+
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Norma Técnica Colombiana, (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001). NORMA ISO 9001 2015.pdf (dnp.gov.co)',
+    },
+
+    {
+      referencia:
+        'Oppenheiner, A. (2010).<em> ¡Basta de historias!: La obsesión latinoamericana con el pasado y las 12 claves del futuro. </em>Basta_de_historias_de_andres_oppenheimer.pdf (caftabusiness.com)',
+    },
+
+    {
+      referencia:
+        'Real Academia Española. (s.f). Vacante. Diccionario de la lengua española. vacante | Definición | Diccionario de la lengua española | RAE - ASALE',
+    },
+
+    {
+      referencia:
+        'Weller, J. (2020).<em> La pandemia del COVID-19 y su efecto en las tendencias de los mercados laborales.</em> Revista de la educación superior.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://repositorio.cepal.org/bitstream/handle/11362/45759/1/S2000387_es.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Diversidad',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'diferencia o distinción de personas según sus características.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Fuentes de reclutamiento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'canal de comunicación a través del cual se informa sobre la vacante a cubrir.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: '<em>Head hunter</em>',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'empresa dedicada a “cazar talento” o atraer candidatos con los requerimientos solicitado por la compañía contratante.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Hoja de vida',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'documento suministrado por los candidatos para ser evaluado en el marco del proceso de reclutamiento.',
     },
     {
-      termino: 'Moda',
+      termino: 'Inclusión',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'hace referencia a la acción donde todas las personas tienen las mismas posibilidades y pueden participar.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Marca empleadora',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'propuesta de valor que una empresa ofrece a sus colaboradores presentes o futuros, reflejada en la reputación que tienen.',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'PHVA',
+      significado: 'ciclo de la planeación: planear, hacer, validar, actuar,',
     },
     {
-      termino: 'Tipología',
+      termino: 'Presupuesto',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'acción por la cual se proyectan los costos asociados a cierta actividad.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Reclutamiento',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'proceso por el cual se realiza la atracción de personal idóneo para dar inicio al proceso de selección.',
     },
     {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'SG-SST',
+      significado: 'sistema de gestión de seguridad y salud en el trabajo.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Reclutamiento ',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Sukhwani, A. (2021) <em>¿Cómo atraer talento en entornos competitivos?</em> [Video]. Youtube. https://youtu.be/cTNQvp_gibM',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/cTNQvp_gibM',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Diagrama de Gantt',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Saber programas. (31 de julio de 2017). ¿Cómo crear un diagrama de Gantt en excel [ Video]. Youtube. https://youtu.be/chR6kx4btDQ ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/chR6kx4btDQ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Mercado laboral',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Universidad EAFIT, (16 de noviembre, 2021) La Marca Empleadora, es una experiencia construida por todos   [ Video]. Youtube. https://youtu.be/QD2KldypYZc',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/QD2KldypYZc',
+    },
+    {
+      tema: 'Políticas (Diversidad e inclusión)',
+      referencia:
+        'Zavala, H (Productor). (2022, 29 Julio) ¿Por qué es importante la diversidad e inclusión en el lugar de trabajo? [Audio <em>Podcast</em>] RFR. www.spotify.com',
+      tipo: 'Podcast',
+      link:
+        'https://open.spotify.com/episode/65ElfV8tvlsYuqgrWMUzKe?si=gzTYPPEdS_mCizW1_ql1aA',
     },
   ],
   creditos: {
