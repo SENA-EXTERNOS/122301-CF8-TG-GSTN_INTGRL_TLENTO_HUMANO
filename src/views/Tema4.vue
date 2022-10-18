@@ -15,7 +15,7 @@
       .col-lg-10(data-aos="fade-left")
         p.mb-5 Teniendo claro lo anterior, en materia de base de datos, es fundamental entender que el mercado laboral es el medio que permite que la oferta de vacantes sea clara y concisa para quien desea acceder a una oportunidad de empleo, y para la persona encargada del proceso de reclutamiento es el canal para realizar adecuadamente su función.
 
-    TabsC.color-acento-contenido.mb-5
+    TabsC.color-acento-contenido.mb-5(data-aos="zoom-out")
       .py-4.py-md-5(titulo="Chiavenato (2009)")
         .row
           .col-md-6.mb-4.mb-md-0.px-5
@@ -48,17 +48,7 @@
               br
               | Como lo menciona Oppenhainer, A. (2010) en ¡BASTA DE HISTORIAS! La obsesión latinoamericana con el pasado y las 12 claves del futuro, realiza la comparación del mercado laboral en Latinoamérica frente a otros lugares del mundo, y puntualmente explica la fórmula como Finlandia logró dejar de ser un país agrícola que explotaba madera a ser un país que exporta y la respuesta es bastante sencilla: educación. (p. 3)
 
-
-
-
-
-
-
-
-
-
-
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-out-up")
       .col-lg-4
         figure.mb-5
           img(src="@/assets/curso/temas/tema4/img-5.png")

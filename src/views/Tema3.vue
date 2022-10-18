@@ -14,7 +14,7 @@
         .cajon.color-primario.p-4.mb-4
           p En el desarrollo del proceso de reclutamiento y en sí de la gestión del recurso humano, es necesario que la organización cuente con una base de datos de los colaboradores y de los candidatos en la medida que se va a realizando la recepción de hojas de vida.
 
-    .row.justify-content-center.align-items-stretch.mb-5
+    .row.justify-content-center.align-items-stretch.mb-5(data-aos="zoom-in-left")
       .col-lg-12.fnd-slide.al-t
         SlyderA(tipo="b")
           .row.al-t
@@ -40,7 +40,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img-4.jpg')
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-lg-4
         figure.mb-5
           img(src="@/assets/curso/temas/tema3/img-5.svg")

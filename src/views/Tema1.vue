@@ -22,7 +22,7 @@
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.px-5
           p Para este desarrollo, se profundizará en lo referente al proceso de reclutamiento, entendiendo este como la entrada del personal para las compañías y el que alimenta el proceso de selección. Es importante partir que este es un proceso que ocurre en doble vía, ya que las empresas no nacieron con las personas; se escogen mutuamente de acuerdo con intereses y oferta presentada. Más adelante se darán los detalles sobre el funcionamiento de este proceso dentro de la gestión de personas.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.fnd-slide
         SlyderA(tipo="b")
           .row
@@ -66,7 +66,7 @@
           h4(data-aos="fade-down").mb-0 Políticas
 
 
-    .tarjeta.tarjeta--gris.p-4.fnd-slide.mb-5
+    .tarjeta.tarjeta--gris.p-4.fnd-slide.mb-5(data-aos="zoom-out")
 
       PasosB.color-secundario
 
@@ -100,7 +100,7 @@
         .fnd-y.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Normatividad sobre provisión de personal en empresa pública y privada
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10 
         .bloque-texto-a.color-acento-contenido.fnd-2.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
