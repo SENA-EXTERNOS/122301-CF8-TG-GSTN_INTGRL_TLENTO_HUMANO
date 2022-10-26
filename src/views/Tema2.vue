@@ -11,14 +11,14 @@
         figure.mb-5
           img.img-110(src="@/assets/curso/temas/tema2/img-1-.svg")
       .col-lg-10(data-aos="fade-left")
-        p.mb-5 Según la Norma Técnica Colombiana (2015) (p. IV) La planeación es la primera fase del ciclo PHVA (planear, hacer, validar, actuar), metodología que se implementa para generar un proceso continuo que permite a las organizaciones asegurar que sus procesos cuenten con los recursos adecuados para gestionar correctamente, determinando las oportunidades de mejora.  
-
+        p.mb-5 Según la Norma Técnica Colombiana (2015) (p. IV) la planeación es la primera fase del ciclo PHVA (planear, hacer, validar, actuar), metodología que se implementa para generar un proceso continuo que permite a las organizaciones asegurar que sus procesos cuenten con los recursos adecuados para gestionar correctamente, determinando las oportunidades de mejora.  
+    p.mb-5 A continuación, profundizamos puntualmente en la fase de planeación.
     TabsC.color-acento-contenido.mb-5(data-aos="slide-right")
       .py-4.py-md-5(titulo="Fase “P”")
         .row
           .col-md-6.mb-4.mb-md-0.px-5
             figure.mb-5
-              img(src="@/assets/curso/temas/tema2/img-2.svg")
+              img(src="@/assets/curso/temas/tema2/img-2-.svg")
           .col-md-6
             p En esta fase se debe determinar qué recursos se necesitan para realizar el reclutamiento de personal,  conocer y entender el manual de funciones y perfiles, establecer cómo se realizará la comunicación, que fuentes de reclutamiento se activarán, bajo qué indicadores o métricas se realizará la medición al proceso, adicionalmente, en ella se harán los acuerdos de nivel de servicios interno, con el fin de garantizar los tiempos de respuesta ante una solicitud de personal.         
       .py-4.py-md-5(titulo="Planeación organizacional")
@@ -53,14 +53,13 @@
         .fnd-y.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Automatización de la planeación
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="slide-down")
+    .row.justify-content-center.align-items-center(data-aos="slide-down")
       .col-lg-6
         figure.mb-5
             img(src="@/assets/curso/temas/tema2/img-6.svg")
       .col-lg-6          
         p.mb-5 Así la metodología de organización y planeación de Gantt tiene como objetivo conocer los componentes de un proyecto y aterrizar las tareas más pequeñas y gestionables. Estas tareas son programadas en líneas de tiempo junto con las personas asignadas y los hitos, permitiendo identificar la logística que requiere el  proyecto permitiendo monitorear los avances en tiempo real . Si llega a suceder un retraso (situación que puede ocurrir), automáticamente las tareas en línea cambian su fecha de entrega.
-        .cajon.color-acento-contenido.p-4.mb-4.px-5
-          p Al entender que el diagrama de Gantt permite monitorear los tiempos de ejecución, las personas responsables, los avances, recursos y logística necesaria para la implementación de un proyecto, se puede concluir que su mayor aporte es visualizar todos los procesos de forma global, así como garantizar que todos los ejecutores estén alineados, velar por los avances y generar planes de acción de forma oportuna.
+
 
     .row.justify-content-start.align-items-center.mb-5         
       .col-lg-4
@@ -77,13 +76,13 @@
               p Para la creación de este diagrama, es necesario reconocer las actividades a ejecutar en el marco del proyecto (para este caso puntual el reclutamiento de personal), fecha de inicio y cuál debe ser la fecha de finalización de cada una de las fases. 
                 br 
                 br 
-                | Como ejercicio demostrativo lo invitamos a ver el video dispuesto en el material complementario Diagrama de Gantt.
+                | Como ejercicio demostrativo lo invitamos a ver el video dispuesto en el material complementario <b>Diagrama de Gantt.</b>
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img-7.png')
           .row
             .col-md-5.mb-4.mb-md-0.px-5
-              p Este diagrama se puede realizar de manera sencilla en Excel pero, también, existen softwares mucho más completos y con más recursos que permiten medir de forma más eficiente el proyecto según sea el caso. Lo importante es que las personas puedan tener visual sobre los diferentes avances o ajustes del proyecto y monitorear todo lo referente al mismo.  
+              p Este diagrama se puede realizar de manera sencilla en Excel pero, también, existen <em>softwares</em> mucho más completos y con más recursos que permiten medir de forma más eficiente el proyecto según sea el caso. Lo importante es que las personas puedan tener visual sobre los diferentes avances o ajustes del proyecto y monitorear todo lo referente al mismo.  
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img-8.png')
@@ -116,7 +115,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img-11.png')
         .col-md-6
-          p.txt-izq  Así mismo para el rubro de reclutamiento se debe tener claro el dinero autorizado e ir monitoreando durante el proceso, su gasto, lo ideal es realizar seguimiento mensual. Los gastos más comunes que se encuentran inmersos en este procesos serán las fuentes de reclutamiento y selección (portales de empleo, periódicos, headhunter-cazatalentos, redes sociales, entre otros) costo de exámenes médicos, estudios de seguridad, pruebas técnicas requeridas con un tercero, ejemplo: prueba de conducción, visita domiciliaria, entre otros. Por esto se hace sumamente importante que la aprobación de cada filtro sea válida y tener certeza que el candidato está interesado en la oferta y sea ideal para el puesto. 
+          p.txt-izq  Así mismo para el rubro de reclutamiento se debe tener claro el dinero autorizado e ir monitoreando durante el proceso, su gasto, lo ideal es realizar seguimiento mensual. Los gastos más comunes que se encuentran inmersos en este procesos serán las fuentes de reclutamiento y selección (portales de empleo, periódicos, <em>headhunter-</em>cazatalentos, redes sociales, entre otros) costo de exámenes médicos, estudios de seguridad, pruebas técnicas requeridas con un tercero, ejemplo: prueba de conducción, visita domiciliaria, entre otros. Por esto se hace sumamente importante que la aprobación de cada filtro sea válida y tener certeza que el candidato está interesado en la oferta y sea ideal para el puesto. 
 
       .row(titulo="")
         .col-md-6.mb-4.mb-md-0

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Políticas Organizacionales
+      h1 Políticas organizacionales
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4.mb-4.fnd-1.px-5
@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.mb-5
         figure
-          img(src='@/assets/curso/temas/tema1/img-1.png')
+          img(src='@/assets/curso/temas/tema1/img-1-.png')
 
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.px-5
@@ -31,7 +31,7 @@
           
             .col-md-7
               figure
-                img(src='@/assets/curso/temas/tema1/img-2.svg')
+                img(src='@/assets/curso/temas/tema1/img-2-.svg')
           .row
             .col-md-5.mb-4.mb-md-0.px-5
               p.mb-5 De acuerdo con el gráfico anterior, el esquema de la izquierda realiza un proceso de reclutamiento centralizado y dependiente en su total del área de RRHH, donde lo que prima es el proceso, atrayendo personas, velando por el statu quo y la estabilidad, además de priorizar el cumplimiento del proceso de forma correcta (eficiencia). 
@@ -108,7 +108,7 @@
               h2.mb-0 También se hace necesario enfatizar que sobre cualquier política que se encuentre dentro de las organizaciones, se debe garantizar el cumplimiento de la normatividad legal vigente colombiana en el marco de gestión del recurso humano.
             .col-lg-7
               .bloque-texto-a__texto.p-4
-                p Aquí se encuentran varias leyes y decretos, sin embargo, las más destacables son las siguientes:  La Constitución Política de Colombia, El código sustantivo de trabajo, Ley 100 de 1993: sistema de seguridad social integral, Ley 1221 de 1998: por lo cual se establecen normas para promover y regular el teletrabajo y se dictan otras disposiciones, Decreto 1295 de 1994: Por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
+                p Aquí se encuentran varias leyes y decretos, sin embargo, las más destacables son las siguientes:  La Constitución Política de Colombia, El código sustantivo de trabajo, Ley 100 de 1993: sistema de seguridad social integral, Ley 1221 de 1998: por lo cual se establecen normas para promover y regular el teletrabajo y se dictan otras disposiciones, Decreto 1295 de 1994: por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
                   br
                   br
                   | Una vez se tengan claro todos los documentos tanto a nivel normativo como internos de una compañía, que regulan y delimitan el proceso de reclutamiento, se debe generar la planeación del proceso. 

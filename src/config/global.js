@@ -80,7 +80,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Políticas Organizacionales',
+        titulo: 'Políticas organizacionales',
         desarrolloContenidos: true,
       },
       {
@@ -94,7 +94,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Base de Datos',
+        titulo: 'Base de datos',
         desarrolloContenidos: true,
       },
 
@@ -181,19 +181,23 @@ export default {
 
     {
       referencia:
-        'Norma Técnica Colombiana, (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001). NORMA ISO 9001 2015.pdf (dnp.gov.co)',
+        'Norma Técnica Colombiana, (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001).',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
 
     {
       referencia:
-        'Oppenheiner, A. (2010).<em> ¡Basta de historias!: La obsesión latinoamericana con el pasado y las 12 claves del futuro. </em>Basta_de_historias_de_andres_oppenheimer.pdf (caftabusiness.com)',
+        'Oppenheiner, A. (2010).<em> ¡Basta de historias!: La obsesión latinoamericana con el pasado y las 12 claves del futuro. </em>',
+      link:
+        'https://caftabusiness.com/forumeconomicus/docs/Basta_de_historias_de_andres_oppenheimer.pdf',
     },
 
     {
       referencia:
         'Real Academia Española. (s.f). Vacante. Diccionario de la lengua española. vacante | Definición | Diccionario de la lengua española | RAE - ASALE',
+      link: 'https://dle.rae.es/vacante?m=form',
     },
-
     {
       referencia:
         'Weller, J. (2020).<em> La pandemia del COVID-19 y su efecto en las tendencias de los mercados laborales.</em> Revista de la educación superior.',
@@ -262,22 +266,22 @@ export default {
     {
       tema: 'Diagrama de Gantt',
       referencia:
-        'Saber programas. (31 de julio de 2017). ¿Cómo crear un diagrama de Gantt en excel [ Video]. Youtube. https://youtu.be/chR6kx4btDQ ',
+        'Saber programas. (31 de julio de 2017). <em>¿Cómo crear un diagrama de Gantt en excel </em>[ Video]. Youtube. https://youtu.be/chR6kx4btDQ ',
       tipo: 'Video',
       link: 'https://youtu.be/chR6kx4btDQ',
     },
     {
       tema: 'Mercado laboral',
       referencia:
-        'Universidad EAFIT, (16 de noviembre, 2021) La Marca Empleadora, es una experiencia construida por todos   [ Video]. Youtube. https://youtu.be/QD2KldypYZc',
+        'Universidad EAFIT, (16 de noviembre, 2021)<em> La Marca Empleadora, es una experiencia construida por todos </em>  [ Video]. Youtube. https://youtu.be/QD2KldypYZc',
       tipo: 'Video',
       link: 'https://youtu.be/QD2KldypYZc',
     },
     {
       tema: 'Políticas (Diversidad e inclusión)',
       referencia:
-        'Zavala, H (Productor). (2022, 29 Julio) ¿Por qué es importante la diversidad e inclusión en el lugar de trabajo? [Audio <em>Podcast</em>] RFR. www.spotify.com',
-      tipo: 'Podcast',
+        'Zavala, H (Productor). (2022, 29 Julio) <em>¿Por qué es importante la diversidad e inclusión en el lugar de trabajo? </em>[Audio <em>Podcast</em>] RFR. www.spotify.com',
+      tipo: '<em>Podcast</em>',
       link:
         'https://open.spotify.com/episode/65ElfV8tvlsYuqgrWMUzKe?si=gzTYPPEdS_mCizW1_ql1aA',
     },

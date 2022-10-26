@@ -48,19 +48,19 @@
             p Acá se encuentran los diferentes canales de comunicación usados para reclutar personal. Entre ellos se encuentra el periódico local, siendo el medio más antiguo para el proceso de atracción de talento, pero a causa de la industria tecnológica es el medio menos utilizado, con menor impacto y poco contundente.
               br
               br
-              | Además del periódico, están los portales de empleo pagos que permiten publicar las vacantes con sus respectivas condiciones, también son fuentes de reclutamiento las redes sociales con las que cuente la compañía como Facebook, Instagram, LinkedIn, entre otras; siendo LinkedIn la red social especialista en la búsqueda de empleo y de generar conexiones laborales. Una ventaja de reclutar por plataformas especializadas es la segmentación que realiza el portal, ya que la búsqueda es más acertada y eficiente.
+              | Además del periódico, están los portales de empleo pagos que permiten publicar las vacantes con sus respectivas condiciones, también son fuentes de reclutamiento las redes sociales con las que cuente la compañía como <em>Facebook, Instagram, LinkedIn,</em> entre otras; siendo <em>LinkedIn </em>la red social especialista en la búsqueda de empleo y de generar conexiones laborales. Una ventaja de reclutar por plataformas especializadas es la segmentación que realiza el portal, ya que la búsqueda es más acertada y eficiente.
               br
               br
               | Todas estas fuentes permitirán que el personal que se encuentra en búsqueda activa de trabajo tenga conocimiento de la vacante ofertada, y pueda enviar su hoja de vida según el medio en el que conoció la vacante. Sin embargo, será responsabilidad de quien esté liderando el proceso el validar las hojas de vida, filtrar de acuerdo con los requerimientos y comenzar el proceso de selección. 
               br
               br
-              | En términos de costos, la publicación de las vacantes en las diferentes redes sociales podrá ser gratuita gracias a las versiones free desde algunos perfiles de la organización o puede tener cierto valor que dependerá de la cantidad y la visibilidad que se requiera en la publicación, y del paquete seleccionado. Todos estos factores los definirá el nivel de rotación que tenga la compañía.
+              | En términos de costos, la publicación de las vacantes en las diferentes redes sociales podrá ser gratuita gracias a las versiones<em> free</em> desde algunos perfiles de la organización o puede tener cierto valor que dependerá de la cantidad y la visibilidad que se requiera en la publicación, y del paquete seleccionado. Todos estos factores los definirá el nivel de rotación que tenga la compañía.
         .row(titulo="Paso 2")
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema5/img-3.jpg', alt='Texto que describa la imagen') 
           .col-md-6
-            p Otra fuente de reclutamiento externo con la que se cuenta, que también es paga, son las empresas head-hunters (cazatalentos), las diferencias con las anteriormente descritas son varias, y una de las importante es el costo por la realización del proceso, en la mayoría de los casos mucho más elevado, ya que las hojas que se reciben ya tienen los filtros requeridos y ajustados al perfil solicitado, garantizando recibir candidatos idóneos para iniciar el proceso de selección. Otra de las diferencias es que esta fuente de reclutamiento se usa para la consecución de cargos administrativos, medios o altos y para perfiles con condiciones muy específicas. 
+            p Otra fuente de reclutamiento externo con la que se cuenta, que también es paga, son las empresas<em> head-hunters</em> (cazatalentos), las diferencias con las anteriormente descritas son varias, y una de las importante es el costo por la realización del proceso, en la mayoría de los casos mucho más elevado, ya que las hojas que se reciben ya tienen los filtros requeridos y ajustados al perfil solicitado, garantizando recibir candidatos idóneos para iniciar el proceso de selección. Otra de las diferencias es que esta fuente de reclutamiento se usa para la consecución de cargos administrativos, medios o altos y para perfiles con condiciones muy específicas. 
 
         .row(titulo="Paso 3")
           .col-md-6.mb-4.mb-md-0
@@ -155,7 +155,7 @@
             figure.mb-5
               img(src="@/assets/curso/temas/tema5/img-11.jpg")
           .col-md-6
-            p Como se mencionó, el área de recursos humanos es un área staff y de apoyo transversal para la organización. La única manera para tener conocimiento de las vacantes es a través del diálogo con el líder que requiera suplir las necesidades del personal. 
+            p Como se mencionó, el área de recursos humanos es un área <em>staff </em>y de apoyo transversal para la organización. La única manera para tener conocimiento de las vacantes es a través del diálogo con el líder que requiera suplir las necesidades del personal. 
 
       .py-4.py-md-5(titulo="Trazabilidad")
         .row
@@ -190,19 +190,15 @@
     ImagenInfografica.color-acento-botones.mb-5(data-aos="slide-down")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema5/img-14-.svg')
+          img(src='@/assets/curso/temas/tema5/img-14--.svg')
           
       .tarjeta.color-brd.p-3(x="39.25%" y="22.6%" numero="")
-        .h5.mb-2 Nombre
         p Datos personales: nombre, apellidos, identificación, teléfono, correo electrónico y lugar de residencia (ciudad o en su defecto barrio, no es pertinente la dirección).
       .tarjeta.color-brd.p-3(x="31.3%" y="70%" numero="")
-        .h5.mb-2 Educación
         p Educación: acá se podrá encontrar los estudios significativos en el marco de su desarrollo y deben estar con fecha de culminación.
       .tarjeta.color-brd.p-3(x="64.7%" y="32.6%" numero="")
-        .h5.mb-2 Experiencia Laboral
         p Experiencia laboral: se recomienda que se encuentren descritas las más recientes a más antiguas, con fecha inicio, fecha de finalización, y enumerando las funciones más relevantes desarrolladas durante el período laboral.  
       .tarjeta.color-brd.p-3(x="69.9%" y="80%" numero="")
-        .h5.mb-2 Habilidades
         p En el momento en que la persona líder del proceso de reclutamiento recibe las diferentes hojas de vida, determina el avance o no de los candidatos, contrastando el perfil del cargo y la convocatoria realizada; en ese momento dará inicio al proceso de selección, este se encarga de hacer la evaluación de las competencias blandas y técnicas del candidato, y determinar si se continúa o no con el proceso de contratación.
 
   

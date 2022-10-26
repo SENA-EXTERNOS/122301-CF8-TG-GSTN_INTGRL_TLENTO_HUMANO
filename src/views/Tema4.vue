@@ -14,7 +14,7 @@
 
       .col-lg-10(data-aos="fade-left")
         p.mb-5 Teniendo claro lo anterior, en materia de base de datos, es fundamental entender que el mercado laboral es el medio que permite que la oferta de vacantes sea clara y concisa para quien desea acceder a una oportunidad de empleo, y para la persona encargada del proceso de reclutamiento es el canal para realizar adecuadamente su función.
-
+    p.mb-5 A continuación, se citarán algunos autores para entender qué es el mercado laboral:
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-out")
       .py-4.py-md-5(titulo="Chiavenato (2009)")
         .row
