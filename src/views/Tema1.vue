@@ -17,13 +17,13 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.mb-5
         figure
-          img(src='@/assets/curso/temas/tema1/img-1-.png')
+          img(src='@/assets/curso/temas/tema1/img-1--.png')
 
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.px-5
           p Para este desarrollo, se profundizará en lo referente al proceso de reclutamiento, entendiendo este como la entrada del personal para las compañías y el que alimenta el proceso de selección. Es importante partir que este es un proceso que ocurre en doble vía, ya que las empresas no nacieron con las personas; se escogen mutuamente de acuerdo con intereses y oferta presentada. Más adelante se darán los detalles sobre el funcionamiento de este proceso dentro de la gestión de personas.
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
-      .col-lg-12.fnd-slide
+      .col-lg-12.fnd-slide.fnd-6 
         SlyderA(tipo="b")
           .row
             .col-md-5.mb-4.mb-md-0.px-5
