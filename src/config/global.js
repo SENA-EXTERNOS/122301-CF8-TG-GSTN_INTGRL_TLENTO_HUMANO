@@ -112,6 +112,12 @@ export default {
         titulo: 'Reclutamiento',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'sintesis',
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
