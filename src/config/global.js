@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Reclutamiento de personal idóneo, según normatividad y políticas organizacionales',
+    componenteFormativo: 'Reclutamiento de personal idóneo',
     descripcionCurso:
       'Este componente permitirá conocer el proceso de reclutamiento de forma idónea dentro de una compañía, teniendo en cuenta normatividad legal vigente, procesos y políticas organizacionales. Así mismo, se podrá reconocer diferentes fuentes de reclutamiento, metodología para realizar la convocatoria de personal y análisis correcto de hojas de vida; garantizando que todo el proceso de selección aporte a la estrategia corporativa.',
     imagenBannerPrincipal: require('@/assets/curso/banner/banner-princiapal.svg'),
@@ -161,15 +160,9 @@ export default {
   referencias: [
     {
       referencia:
-        'Chiavenato, I (2009),<em> Gestión del talento humano.</em> McGraw Hill.',
+        'Chiavenato, I. (2009). <em>Gestión del talento humano.</em> McGraw Hill. ',
       link:
         'https://jgestiondeltalentohumano.files.wordpress.com/2013/11/gestion-del-talento-humano-idalberto-chiavenato-3th.pdf',
-    },
-
-    {
-      referencia:
-        'Saber programas. (31 de julio de 2017). <em>¿Cómo crear un diagrama de Gantt en excel</em> [ Video]. Youtube.',
-      link: 'https://youtu.be/chR6kx4btDQ',
     },
 
     {
@@ -181,13 +174,13 @@ export default {
 
     {
       referencia:
-        'Meardon, E. (s.f). <em>Todo sobre los diagramas de Gantt. </em>Atlassian.',
+        'Meardon, E. (2022). <em>¿Qué son los diagramas de Gantt?.</em> Atlassian.',
       link: 'https://www.atlassian.com/es/agile/project-management/gantt-chart',
     },
 
     {
       referencia:
-        'Norma Técnica Colombiana, (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001).',
+        'Norma Técnica Colombiana. (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001).',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
@@ -201,7 +194,7 @@ export default {
 
     {
       referencia:
-        'Real Academia Española. (s.f). Vacante. Diccionario de la lengua española. vacante | Definición | Diccionario de la lengua española | RAE - ASALE',
+        'Real Academia Española. (2014). <em>Vacante.</em> Diccionario de la lengua española.',
       link: 'https://dle.rae.es/vacante?m=form',
     },
     {
@@ -265,28 +258,28 @@ export default {
     {
       tema: 'Reclutamiento ',
       referencia:
-        'Sukhwani, A. (2021) <em>¿Cómo atraer talento en entornos competitivos?</em> [Video]. Youtube. https://youtu.be/cTNQvp_gibM',
+        'Sukhwani, A. (2021) <em>¿Cómo atraer talento en entornos competitivos?</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/cTNQvp_gibM',
     },
     {
-      tema: 'Diagrama de Gantt',
+      tema: 'Planeación',
       referencia:
-        'Saber programas. (31 de julio de 2017). <em>¿Cómo crear un diagrama de Gantt en excel </em>[ Video]. Youtube. https://youtu.be/chR6kx4btDQ ',
+        'Saber programas. (2017). ¿Cómo crear un diagrama de Gantt en Excel (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/chR6kx4btDQ',
     },
     {
       tema: 'Mercado laboral',
       referencia:
-        'Universidad EAFIT, (16 de noviembre, 2021)<em> La Marca Empleadora, es una experiencia construida por todos </em>  [ Video]. Youtube. https://youtu.be/QD2KldypYZc',
+        'Universidad EAFIT. (2021). La Marca Empleadora, es una experiencia construida por todos (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/QD2KldypYZc',
     },
     {
-      tema: 'Políticas (Diversidad e inclusión)',
+      tema: 'Políticas organizacionales',
       referencia:
-        'Zavala, H (Productor). (2022, 29 Julio) <em>¿Por qué es importante la diversidad e inclusión en el lugar de trabajo? </em>[Audio <em>Podcast</em>] RFR. www.spotify.com',
+        'Zavala, H. (Productor). (2022). <em>¿Por qué es importante la diversidad e inclusión en el lugar de trabajo?</em> [Podcast] ',
       tipo: '<em>Podcast</em>',
       link:
         'https://open.spotify.com/episode/65ElfV8tvlsYuqgrWMUzKe?si=gzTYPPEdS_mCizW1_ql1aA',

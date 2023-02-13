@@ -19,14 +19,14 @@
         SlyderA(tipo="b")
           .row.al-t
             .col-md-5.mb-4.mb-md-0.px-5
-              p La gestión de bases de datos en Colombia es regulada por La ley 1581 de 2012, Por la cual se dictan disposiciones generales para la protección de datos personales, la cual define base de datos como “Conjunto organizado de datos personales que sea objeto de tratamiento” (p.1), en esta misma ley se podrá encontrar todo lo referente al responsable de la administración de los datos, las autorizaciones necesarias para ello, la clasificación de los datos, y cuáles pueden ser de manejo público, sensible o confidencial. 
+              p La gestión de bases de datos en Colombia es regulada por la Ley 1581 del 2012, por la cual se dictan disposiciones generales para la protección de datos personales, y que define base de datos como: “conjunto organizado de datos personales que sean objeto de tratamiento” (p.1); en esta misma Ley, se podrá encontrar todo lo referente a la administración de los datos, las autorizaciones necesarias, la clasificación de la información, y cuáles de estos pueden ser de manejo público, sensible o confidencial. 
           
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema3/img-2.jpg')
           .row
             .col-md-5.mb-4.mb-md-0.px-5
-              p.mb-5 En este orden de ideas es necesario precisar la definición datos personales siendo estos “toda información sobre una persona física identificada o identificable: se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en parti­cular mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social” ley 1581 de 2012 En lo que refiere al proceso de reclutamiento se contarán con todos los datos del candidato aquellos que se encuentren reposados en su hoja de vida y aquellos que vaya suministrando en el transcurso del proceso de selección. Garantizar su custodia y correspondientes permisos para la administración es sumamente necesario y lo más probable que es el proceso lo lleve a cabo el área de talento humano junto con otro proceso que garantiza todo el acorde manejo de información a nivel organización.
+              p.mb-5 En este orden de ideas, se hace necesario precisar la definición datos personales: “toda información sobre una persona física identificada o identificable; se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular, mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social”, Ley 1581 del 2012. En lo que se refiere al proceso de reclutamiento, se contarán con todos los datos del candidato, aquellos que se encuentren reposados en su hoja de vida y aquellos que vaya suministrando durante el transcurso del proceso de selección. Garantizar su custodia y correspondientes permisos para la administración, es sumamente necesario y lo más probable que el proceso lo lleve a cabo el área de talento humano, junto con otro proceso que garantiza todo el manejo, acorde con la información a nivel organización.
 
           
             .col-md-7

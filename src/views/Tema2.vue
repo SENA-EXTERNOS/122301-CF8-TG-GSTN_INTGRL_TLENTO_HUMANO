@@ -66,7 +66,7 @@
         .fnd-y.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Diagrama de Gantt
 
-    p.mb-5 Al entender que el diagrama de Gantt permite monitorear los tiempos de ejecución, las personas responsables, los avances, recursos y logística necesaria para la implementación de un proyecto, se puede concluir que su mayor aporte es visualizar todos los procesos de forma global, así como garantizar que todos los ejecutores estén alineados, velar por los avances y generar planes de acción de forma oportuna.
+    p.mb-5 Al entender que el diagrama de Gantt permite monitorear los tiempos de ejecución, las personas responsables, los avances, recursos y la logística necesaria para la implementación de un proyecto, se puede concluir que: su mayor aporte es el de visualizar todos los procesos de forma global, así como garantizar también, que todos los ejecutores estén alineados, velar por los avances y generar planes de acción de forma oportuna. ¿Cómo se realiza un Diagrama de Gantt y para qué? Veamos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-right")
       .col-lg-12.fnd-slide
@@ -99,7 +99,7 @@
         .fnd-y.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Presupuesto en talento humano 
 
-    p.mb-5  Como parte de la planeación, en el área de recursos humanos, como en cualquier área de una compañía, se requiere un presupuesto para ejecutar sus diferentes actividades, entendiéndose ‘presupuesto’ como el dinero proyectado y provisionado para cada uno de los subprocesos en pro de la gestión de las personas en un contexto organizacional, es decir, es el dinero calculado para las actividades propias del área entre las cuales está el atraer, seleccionar y capacitar personal, realizar programas de bienestar, planear el costo de personal (la nómina), la dotación y el cumplimiento de lo establecido por el sistema de gestión de seguridad y salud en el trabajo, entre otros.     
+    p.mb-5  Como parte de la planeación, en el área de recursos humanos, como en cualquier área de una compañía, se requiere un presupuesto para ejecutar sus diferentes actividades, entendiéndose ‘presupuesto’ como el dinero proyectado y provisionado para cada uno de los subprocesos en pro de la gestión de las personas, en un contexto organizacional; es decir, es el dinero calculado para las actividades propias del área, entre las cuales está atraer, seleccionar y capacitar personal, realizar programas de bienestar, planear el costo de personal (la nómina), la dotación y el cumplimiento de lo establecido por el sistema de gestión de seguridad y salud en el trabajo, entre otros; debido a todo esto, se debe tener en cuenta:  
 
 
     PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="fade-right")

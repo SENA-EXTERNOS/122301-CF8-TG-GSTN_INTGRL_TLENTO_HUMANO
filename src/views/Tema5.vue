@@ -24,8 +24,10 @@
         figure.mb-5
           img.img-110(src="@/assets/curso/temas/tema5/img-1-.svg")
       .col-lg-10(data-aos="fade-left")
-        p.mb-5 Los canales de reclutamiento interno son principalmente los colaboradores activos de la organización y los líderes de los procesos. Los primeros son los colaboradores activos de la compañía quienes juegan un rol de suma importancia, ya que pueden generar una ‘venta’ de la compañía en términos positivos desde su experiencia. El personal activo podrá generar un voz a voz a sus amigos, conocidos o familiares (este último dependerá de la política de contratación de familiares presente) de las vacantes que existentes, para que esto ocurra, la experiencia del colaborador ejerciendo sus funciones debe ser agradable y entrelazando factores que juegan una gran importancia para garantizar que sea una fuente de reclutamiento activa.           
-    p.mb-5 Para profundizar sobre el tema de fuentes internas de reclutamiento lo invitamos a ver el siguiente video:
+        p.mb-5 Los canales de reclutamiento interno son, principalmente, los colaboradores activos de la organización y los líderes de los procesos. Los primeros son los colaboradores activos de la compañía, quienes juegan un rol de suma importancia, porque pueden generar una ‘venta’ de la compañía en términos positivos desde su experiencia.
+          br
+          br
+          |Para profundizar sobre el tema de fuentes internas de reclutamiento, lo invitamos a ver el siguiente video:        
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -207,10 +209,16 @@
         figure
           img(src='@/assets/curso/temas/tema5/img-15.jpg')
       .col-lg-9
-        p Así mismo es importante tener presente que la hoja de vida es un documento que contiene información sensible o confidencial de la persona (como número de identificación, teléfono de contacto, dirección de residencia, entre otros) por lo cual la empresa debe tener claro cuál será la disposición y almacenamiento que haga de las mismas. 
-        p Una transformación adicional que se ha vivido en las organizaciones impulsada por la tecnología, se encuentra el hecho que ya casi no se reciben hojas de vida impresas/físicas.
-        p Sin embargo si aun llegara a presentarse el caso es de suma importancia garantizar el archivo confidencial, acceso restringido y permitido para ciertas personas y validar el proceso para su destrucción final en dado caso que la persona no haya sido seleccionada.
-        p Si por caso contrario la recepción de hojas de vida se maneja de forma digital, también es importante que se valide su archivo y seguramente el acceso será a través de un computador o plataforma en la nube, pero de igual forma no puede ser visible para toda la organización.
+        p Es importante tener presente, que la hoja de vida es un documento que contiene información sensible o confidencial de la persona (como número de identificación, teléfono de contacto, dirección de residencia, entre otros), por lo cual la empresa debe tener claro cuál será la disposición y almacenamiento que haga con esta data.
+          br
+          br
+          |Una transformación adicional que se ha vivido en las organizaciones impulsada por la tecnología, es el hecho que ya casi no se reciben hojas de vida impresas/físicas.
+          br
+          br
+          |Sin embargo, si aún llegara a presentarse el caso, es de suma importancia garantizar el archivo confidencial, acceso restringido y permitido para ciertas personas y validar el proceso para su destrucción final, en caso dado que la persona no haya sido seleccionada.
+          br
+          br
+          |Si por el caso contrario, la recepción de hojas de vida se maneja de forma digital, también es importante que se valide el archivo y, seguramente, el acceso será a través de un computador o plataforma en la nube, pero de igual forma, no puede ser visible para toda la organización.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

@@ -7,21 +7,28 @@
         span 1
       h1 Políticas organizacionales
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        .cajon.color-primario.p-4.mb-4.fnd-1.px-5
-   
-          p El área de recursos humanos, en los últimos tiempos, comenzó a ser un área de gran importancia que apoya y da soporte a los diferentes retos de una organización. Sin embargo, posiblemente, no se reconoce de forma consciente que las organizaciones hoy enfrentan retos y cambios constantemente y promovidos por las diferentes circunstancias económicas, políticas, tecnológicas, sociales y culturales. Los cambios anteriores conllevan a que esta área staff esté a la vanguardia, pueda dar una respuesta oportuna y correcta a lo requerido sin perder su gran objetivo, y donde su hilo de trabajo sea la humanización en el marco del desarrollo de los procesos organizacionales.
+      .col-lg-10.bloque-derecha
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image':`url(${require('@/assets/curso/temas/c/c1.jpg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 El área de recursos humanos, en los últimos tiempos, comenzó a ser un área de gran importancia que apoya y da soporte a los diferentes retos de una organización. Sin embargo, posiblemente, no se reconoce de forma consciente que las organizaciones hoy enfrentan retos y cambios constantemente y promovidos por las diferentes circunstancias económicas, políticas, tecnológicas, sociales y culturales. Los cambios anteriores conllevan a que esta área staff esté a la vanguardia, pueda dar una respuesta oportuna y correcta a lo requerido sin perder su gran objetivo, y donde su hilo de trabajo sea la humanización en el marco del desarrollo de los procesos organizacionales.
 
-    p.mb-5 Por ser un proceso de apoyo organizacional, el área de recursos humanos está compuesta por varios subprocesos, cada uno con un objetivo fundamental en la gestión de personas dentro de una organización. A continuación, se presenta un área de recursos con sus respectivos subprocesos: 
+    p.mb-5 Por ser un proceso de apoyo organizacional, el área de recursos humanos está compuesta por varios subprocesos, cada uno con un objetivo fundamental en la gestión de personas dentro de una organización. Teniendo en cuenta esto, se presenta un área de recursos con sus respectivos subprocesos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.mb-5
         figure
           img(src='@/assets/curso/temas/tema1/img-1--.png')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4: img(src='@/assets/curso/temas/c/c2.png', alt='')
+      .col-lg-8: p Para el desarrollo de esta temática, se profundizará en lo referente al reclutamiento de personal, entendiendo este como el proceso de búsqueda de candidatos para entrevistar y contratar, con la finalidad de cubrir algún puesto vacante en la empresa. 
+        br
+        br
+        |Al iniciar un proceso de selección se le deben considerar las necesidades de la organización, las especificaciones de la función a desempeñar, la experticia en el sector y el desempeño que se espera del individuo que ingresa a ocupar el cargo; se tiene entonces que se abre una relación en la cual, ambas partes aportan. Es importante partir de un proceso que se presenta de doble vía, o sea bilateral, porque las empresas no nacieron con las personas; se escogen mutuamente, de acuerdo con intereses y oferta presentada; se genera una relación recíproca: la empresa expone la proyección y lo que espera del aspirante, y ese nuevo integrante, concuerda para trabajar por objetivos comunes.
+    p.mb-5(data-aos='fade-right') Más adelante se darán los detalles sobre el funcionamiento de este proceso. Por ahora conoceremos el esquema tradicional, frente al moderno:
 
-      .col-lg-10
-        .cajon.color-acento-contenido.p-4.mb-4.px-5
-          p Para este desarrollo, se profundizará en lo referente al proceso de reclutamiento, entendiendo este como la entrada del personal para las compañías y el que alimenta el proceso de selección. Es importante partir que este es un proceso que ocurre en doble vía, ya que las empresas no nacieron con las personas; se escogen mutuamente de acuerdo con intereses y oferta presentada. Más adelante se darán los detalles sobre el funcionamiento de este proceso dentro de la gestión de personas.
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.fnd-slide.fnd-6 
         SlyderA(tipo="b")
@@ -34,8 +41,10 @@
                 img(src='@/assets/curso/temas/tema1/img-2-.svg')
           .row
             .col-md-5.mb-4.mb-md-0.px-5
-              p.mb-5 De acuerdo con el gráfico anterior, el esquema de la izquierda realiza un proceso de reclutamiento centralizado y dependiente en su total del área de RRHH, donde lo que prima es el proceso, atrayendo personas, velando por el statu quo y la estabilidad, además de priorizar el cumplimiento del proceso de forma correcta (eficiencia). 
-              p.mb-5 Como se enmarco en el principio, dada la evolución que ha tenido el proceso, hoy en día prima el esquema moderno, en el cual prevale generar la atracción del talento orientado a la estrategia, puesto que el proceso de reclutamiento está en constante cambio, siendo inestable y uno de sus mayores componentes en la descentralización. 
+              p.mb-5 De acuerdo con la figura anterior, el esquema de la izquierda realiza un proceso de reclutamiento centralizado y dependiente, en su total, del área de RRHH, donde lo que prima es el proceso, atrayendo personas, velando por el #[em statu quo] y la estabilidad, además de priorizar el cumplimiento del proceso de forma correcta (eficiencia).
+                br
+                br
+                |Como se enmarcó al inicio, dada la evolución que ha tenido el proceso, hoy en día prima el esquema moderno, en el cual prevalece generar la atracción del talento, orientado a la estrategia, puesto que el proceso de reclutamiento está en constante cambio, siendo inestable y uno de sus mayores componentes en la descentralización. 
 
           
             .col-md-7
@@ -58,7 +67,7 @@
 
 
       .col-lg-10(data-aos="fade-left")
-        p.mb-5 De acuerdo con el preámbulo anterior, en el reclutamiento/atracción de personal se hace pertinente reconocer, en primera medida, las políticas organizacionales que se podrán encontrar en el accionar de cada compañía según sea el caso. Su papel es direccionar el cumplimiento de la estrategia, el desarrollo del proceso en el marco de cada cultura generando responsabilidades y garantizando la correcta atracción, selección, capacitación, desarrollo y remuneración de las personas. Así mismo, garantizan y mantienen vivas las posibles certificaciones y/o sistemas de gestión que pueda llegar a tener la organización, como lo son el sistema de calidad o el sistema de seguridad y salud en el trabajo, entre otros.
+        p.mb-5 De acuerdo con el reclutamiento de personal, se hace pertinente reconocer, en primera medida, las políticas organizacionales que se podrán encontrar en el accionar de cada compañía, según sea el caso. Su papel es el de direccionar el cumplimiento de la estrategia, el desarrollo del proceso en el marco de cada cultura, generando responsabilidades y garantizando la correcta atracción, selección, capacitación, desarrollo y remuneración de las personas. Así mismo, garantizan y mantienen vivas las posibles certificaciones y/o sistemas de gestión que pueda llegar a tener la organización, como son el sistema de calidad o el sistema de seguridad y salud en el trabajo, entre otros. Algunas características de estas políticas son:
 
     .row.justify-content-start.align-items-center.mb-5         
       .col-lg-4
