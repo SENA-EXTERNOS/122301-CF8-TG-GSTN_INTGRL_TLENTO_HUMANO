@@ -12,7 +12,7 @@
           img.img-110(src="@/assets/curso/temas/tema2/img-1-.svg")
       .col-lg-10(data-aos="fade-left")
         p.mb-5 Según la Norma Técnica Colombiana (2015) (p. IV) la planeación es la primera fase del ciclo PHVA (planear, hacer, validar, actuar), metodología que se implementa para generar un proceso continuo que permite a las organizaciones asegurar que sus procesos cuenten con los recursos adecuados para gestionar correctamente, determinando las oportunidades de mejora.  
-    p.mb-5 A continuación, profundizamos puntualmente en la fase de planeación.
+    p.mb-5 Veamos puntualmente, la fase de planeación:
     TabsC.color-acento-contenido.mb-5(data-aos="slide-right")
       .py-4.py-md-5(titulo="Fase “P”")
         .row

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Base de Datos
+      h1 Base de datos
     .row.justify-content-center.mb-5
       .col-lg-4
         figure.mb-5

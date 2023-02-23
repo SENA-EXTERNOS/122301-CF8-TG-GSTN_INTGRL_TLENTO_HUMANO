@@ -39,6 +39,7 @@
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema1/img-2-.svg')
+                figcaption Nota. El esquema representa los métodos para atraer al talento humano. Adaptado de Chiavenato, I. (p.103), 2009.#[em Gestión del talento humano.] 
           .row
             .col-md-5.mb-4.mb-md-0.px-5
               p.mb-5 De acuerdo con la figura anterior, el esquema de la izquierda realiza un proceso de reclutamiento centralizado y dependiente, en su total, del área de RRHH, donde lo que prima es el proceso, atrayendo personas, velando por el #[em statu quo] y la estabilidad, además de priorizar el cumplimiento del proceso de forma correcta (eficiencia).
