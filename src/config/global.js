@@ -175,8 +175,6 @@ export default {
     {
       referencia:
         'Norma Técnica Colombiana. (2015). <em>Sistema de Gestión de Calidad. Requisitos</em> (ISO 9001).',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
 
     {
