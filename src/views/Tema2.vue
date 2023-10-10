@@ -46,7 +46,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-5.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 A principios del siglo XX, Henry Gantt revolucionó la gestión de proyectos con los diagramas de Gantt que, por aquel entonces, se trazaban en hojas de papel. Con el uso creciente de los ordenadores en la década de los 80´s, los diagramas de Gantt se volvieron cada vez más complejos y elaborados. Hoy en día, estos diagramas siguen siendo una de las herramientas de gestión de proyectos más utilizadas. (Meardon, 2022).
+        p.mb-0 A principios del siglo XX, Henry Gantt revolucionó la gestión de proyectos con los diagramas de Gantt que, por aquel entonces, se trazaban en hojas de papel. Con el uso creciente de los ordenadores en la década de los 80´s, los diagramas de Gantt se volvieron cada vez más complejos y elaborados. Hoy en día, estos diagramas siguen siendo una de las herramientas de gestión de proyectos más utilizadas (Meardon, 2022).
 
     .row.justify-content-start.align-items-center.mb-5         
       .col-lg-4
@@ -66,7 +66,7 @@
         .fnd-y.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Diagrama de Gantt
 
-    p.mb-5 Al entender que el diagrama de Gantt permite monitorear los tiempos de ejecución, las personas responsables, los avances, recursos y la logística necesaria para la implementación de un proyecto, se puede concluir que: su mayor aporte es el de visualizar todos los procesos de forma global, así como garantizar también, que todos los ejecutores estén alineados, velar por los avances y generar planes de acción de forma oportuna. ¿Cómo se realiza un Diagrama de Gantt y para qué? Veamos:
+    p.mb-5 Al entender que el diagrama de Gantt permite monitorear los tiempos de ejecución, las personas responsables, los avances, recursos y la logística necesaria para la implementación de un proyecto, se puede concluir que: su mayor aporte es el de visualizar todos los procesos de forma global, así como garantizar también, que todos los ejecutores estén alineados, velar por los avances y generar planes de acción de forma oportuna. ¿Cómo se realiza un diagrama de Gantt y para qué? Veamos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-right")
       .col-lg-12.fnd-slide
@@ -129,7 +129,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img-13.png')
         .col-md-6
-          p.txt-izq  Por esto es necesario revisar cuáles son los motivos principales de caída, garantizar que los filtros aplicados sean necesario según el perfil, que las fuentes de reclutamiento realmente están generando efectividad al proceso, con el objetivo de ser muy cuidadosos con el gasto y no generar sobrecostos.
+          p.txt-izq  Por esto es necesario revisar cuáles son los motivos principales de caída, garantizar que los filtros aplicados sean necesarios según el perfil, que las fuentes de reclutamiento realmente están generando efectividad al proceso, con el objetivo de ser muy cuidadosos con el gasto y no generar sobrecostos.
 
 
 

@@ -35,8 +35,8 @@
             p Sin duda, hablar sobre la situación laboral hace necesario traer acotación los cambios de los últimos tiempos que ha vivido la sociedad en todos los sentidos, y de forma precisa en la manera de trabajar y las tendencias laborales. 
               br
               br
-              | Como lo expresó Weller, J. (2020), en La pandemia del COVID-19 y su efecto en las tendencias de los mercados laborales (p.5), posiblemente el cambio de mayor impacto ha sido la digitalización. Se evidencio que estar confinados por varios meses generó el reto de mantener la economía viva, sin salir de casa ni tener contacto con otros. 
-            p Por lo cual, muchos trabajos que requerían una oficina o realizar de forma manual se trasladaron a un computador desde casa o cualquier lugar del mundo, desencadenado la sustitución de la mano de obra, la transformación de empleos ya existentes y la creación de nuevos trabajos.
+              | Como lo expresó Weller, J. (2020), en La pandemia del COVID-19 y su efecto en las tendencias de los mercados laborales (p.5), posiblemente el cambio de mayor impacto ha sido la digitalización. Se evidenció que estar confinados por varios meses generó el reto de mantener la economía viva, sin salir de casa ni tener contacto con otros. 
+            p Por lo cual, muchos trabajos que requerían una oficina o realizar de forma manual se trasladaron a un computador desde casa o cualquier lugar del mundo, desencadenando la sustitución de la mano de obra, la transformación de empleos ya existentes y la creación de nuevos trabajos.
       .py-4.py-md-5(titulo="Oppenhainer, A. (2010)")
         .row
           .col-md-6.mb-4.mb-md-0.px-5
@@ -46,7 +46,7 @@
             p Dados los cambios en el mercado a causa de la pandemia, cabe mencionar la  preocupación en aspectos de educación, pues las tareas operativas o manuales han sido reemplazadas por máquinas con mayor velocidad, y en el mercado laboral son más apetecidos las personas altamente capacitadas y actualizadas.
               br
               br
-              | Como lo menciona Oppenhainer, A. (2010) en ¡BASTA DE HISTORIAS! La obsesión latinoamericana con el pasado y las 12 claves del futuro, realiza la comparación del mercado laboral en Latinoamérica frente a otros lugares del mundo, y puntualmente explica la fórmula como Finlandia logró dejar de ser un país agrícola que explotaba madera a ser un país que exporta y la respuesta es bastante sencilla: educación. (p. 3)
+              | Como lo menciona Oppenhainer, A. (2010) en ¡BASTA DE HISTORIAS! La obsesión latinoamericana con el pasado y las 12 claves del futuro, realiza la comparación del mercado laboral en Latinoamérica frente a otros lugares del mundo, y puntualmente explica la fórmula como Finlandia logró dejar de ser un país agrícola que explotaba madera a ser un país que exporta y la respuesta es bastante sencilla: educación (p. 3).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-out-up")
       .col-lg-4

@@ -118,7 +118,7 @@
               h2.mb-0 También se hace necesario enfatizar que sobre cualquier política que se encuentre dentro de las organizaciones, se debe garantizar el cumplimiento de la normatividad legal vigente colombiana en el marco de gestión del recurso humano.
             .col-lg-7
               .bloque-texto-a__texto.p-4
-                p Aquí se encuentran varias leyes y decretos, sin embargo, las más destacables son las siguientes:  La Constitución Política de Colombia, El código sustantivo de trabajo, Ley 100 de 1993: sistema de seguridad social integral, Ley 1221 de 1998: por lo cual se establecen normas para promover y regular el teletrabajo y se dictan otras disposiciones, Decreto 1295 de 1994: por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
+                p Aquí se encuentran varias leyes y decretos, sin embargo, las más destacables son las siguientes:  La Constitución Política de Colombia, El código sustantivo de trabajo, Ley 100 de 1993: sistema de seguridad social integral, Ley 1221 de 1998: por lo cual se establecen normas para promover y regular el teletrabajo y se dictan otras disposiciones, Decreto 1295 de 1994: por el cual se determina la organización y administración del Sistema General de Riesgos Laborales.
                   br
                   br
                   | Una vez se tengan claro todos los documentos tanto a nivel normativo como internos de una compañía, que regulan y delimitan el proceso de reclutamiento, se debe generar la planeación del proceso. 

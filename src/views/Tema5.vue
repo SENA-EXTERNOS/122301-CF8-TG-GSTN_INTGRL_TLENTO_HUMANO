@@ -194,13 +194,13 @@
         figure
           img(src='@/assets/curso/temas/tema5/img-14--.svg')
           
-      .tarjeta.color-brd.p-3(x="39.25%" y="22.6%" numero="")
+      .tarjeta.color-brd.p-3(x="35.5%" y="16.6%" numero="")
         p Datos personales: nombre, apellidos, identificación, teléfono, correo electrónico y lugar de residencia (ciudad o en su defecto barrio, no es pertinente la dirección).
-      .tarjeta.color-brd.p-3(x="31.3%" y="70%" numero="")
+      .tarjeta.color-brd.p-3(x="25.5%" y="77%" numero="")
         p Educación: acá se podrá encontrar los estudios significativos en el marco de su desarrollo y deben estar con fecha de culminación.
-      .tarjeta.color-brd.p-3(x="64.7%" y="32.6%" numero="")
+      .tarjeta.color-brd.p-3(x="67.7%" y="29.6%" numero="")
         p Experiencia laboral: se recomienda que se encuentren descritas las más recientes a más antiguas, con fecha inicio, fecha de finalización, y enumerando las funciones más relevantes desarrolladas durante el período laboral.  
-      .tarjeta.color-brd.p-3(x="69.9%" y="80%" numero="")
+      .tarjeta.color-brd.p-3(x="74.9%" y="90%" numero="")
         p En el momento en que la persona líder del proceso de reclutamiento recibe las diferentes hojas de vida, determina el avance o no de los candidatos, contrastando el perfil del cargo y la convocatoria realizada; en ese momento dará inicio al proceso de selección, este se encarga de hacer la evaluación de las competencias blandas y técnicas del candidato, y determinar si se continúa o no con el proceso de contratación.
 
   

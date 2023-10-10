@@ -229,7 +229,7 @@ export default {
     },
     {
       termino: 'PHVA',
-      significado: 'ciclo de la planeación: planear, hacer, validar, actuar,',
+      significado: 'ciclo de la planeación: planear, hacer, validar, actuar.',
     },
     {
       termino: 'Presupuesto',
